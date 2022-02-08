@@ -1,0 +1,1 @@
+I am trying to learn MERN, right now i am at "git, github, and version control".
